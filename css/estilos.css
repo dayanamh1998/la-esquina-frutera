@@ -19,6 +19,11 @@ header
     left: 60px;
     top: 20px;
 }
+
+.color-amarillo{
+    background-color: #ffc107;
+}
+
 nav li
 {
 margin: 20px;
