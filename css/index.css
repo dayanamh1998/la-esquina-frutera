@@ -1,38 +1,4 @@
-nav li
-{
-margin: 20px;
-border: white;
-background-color: white;
-padding: 15px 15px;
 
-
-}
-
-nav ul
-{
-    display: flex;
-    position: absolute;
-    right: 40px;
-    top: 15px;
-    list-style: none;
-        
-}
-nav a
-{
-    text-decoration: none;
-    color: black;
-}
-
-.espacio
-{
-    background-color: white;
-    width: 102%;
-    height: 10px;
-    position: relative;
-    top: 30px;
-    margin: 0px 0px;
-    display: flex;
-}
 
 .texto 
 {
@@ -58,25 +24,7 @@ body
 background-color: #F2CB05 ;
 }
 
-footer
-{
-    position: relative;
-    top: 400px;
-    text-align: center;
-    margin-top: 20px;
-    
-}
-.instagram
-{
-    position: relative;
-    left: 30px;
-    bottom: 32px;
-}
-.facebook
-{
-    position: relative;
-    right: 10px;
-}
+
 
 .comprar a
 {
@@ -101,17 +49,6 @@ footer
   
 }
 
-.espacio2 
-{
-    background-color: white;
-    width: 102%;
-    height: 10px;
-    position: relative;
-    top: 400px;
-    margin: 10px 0px;
-    display: flex;
-    
-}
 
 
 
@@ -130,10 +67,3 @@ footer
 }
 
 
-@media (max-width:700px)
-{
-    .logo , nav, ul, .texto, .imagen1
-    {
-        flex-direction: column;
-    }
-}
