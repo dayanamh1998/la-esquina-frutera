@@ -7,8 +7,6 @@
 }
 /*--IMAGEN-DE-FONDO--------------*/
 body{
-    position: relative;
-    top: 200px;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
