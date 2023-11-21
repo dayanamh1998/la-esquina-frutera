@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:5px;
+    box-sizing:border-box;
+}
+
+header
+{
+    position:sticky;
+}
+
+.logo img
+{
+    width: 174px;
+    height: 174px;
+    flex-shrink: 0;
+    border-radius: 174px;
+    position: relative;
+    left: 60px;
+    top: 20px;
+}
+
+.boton-comprar{
+    text-transform: capitalize;
+    text-decoration: none;
+}
