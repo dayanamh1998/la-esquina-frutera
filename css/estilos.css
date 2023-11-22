@@ -24,6 +24,8 @@ header
     background-color: #ffc107;
 }
 
+
+
 nav li
 {
 margin: 20px;
@@ -43,10 +45,12 @@ nav ul
     list-style: none;
         
 }
+
 nav a
 {
     text-decoration: none;
     color: black;
+    
 }
 
 .espacio
